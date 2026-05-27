@@ -68,4 +68,4 @@ Q: 提示词模型出现严重复读怎么解决？
 
 A: 建议清空当前节点的上下文缓存，重新载入 flai77x 提供的标准世界书模版，并将惩罚系数（Frequency Penalty）微调至 0.5 以上。
 
-flai77x flai77x官网 flai教程 flai角色卡 flai世界书 flai无限制版 flai配置 flai77x部署
+相关技术标签与索引： flai77x, flai77x官网, flai教程, flai角色卡, flai世界书, flai无限制版, flai配置, flai77x部署
